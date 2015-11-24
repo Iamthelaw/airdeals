@@ -1,2 +1,3 @@
 dovenv/
 django_project/settings.py
+*.pyc
